@@ -1,0 +1,2 @@
+This is the directory where the rolemenu date for each of the bot's servers is stored.
+Included in the repo. because the code *wwill not* create this directory if it doesn't exist, and so throws an error.

@@ -1,0 +1,2 @@
+This is the directory where the roles of people are stored when they leave the server.
+Included in the repo. because the code *wwill not* create this directory if it doesn't exist, and so throws an error.
